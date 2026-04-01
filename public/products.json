@@ -1,0 +1,10 @@
+[
+  { "id": 1, "title": "Laptop Ultra Pro", "price": 750000, "category": "electronics", "image": "/img/laptop.webp" },
+  { "id": 2, "title": "Anillo de Oro", "price": 500000, "category": "jewelery", "image": "/img/anillo.webp" },
+  { "id": 3, "title": "Camisa de Lino", "price": 45000, "category": "men's clothing", "image": "/img/camisa.webp" },
+  { "id": 4, "title": "Vestido de Verano", "price": 35000, "category": "women's clothing", "image": "/img/vestido.webp" },
+  { "id": 5, "title": "Monitor 4K Studio", "price": 199990, "category": "electronics", "image": "/img/monitor.webp" },
+  { "id": 6, "title": "Chaqueta de Cuero", "price": 400000, "category": "men's clothing", "image": "/img/chaqueta.webp" },
+  { "id": 7, "title": "Collar de Perlas", "price": 850000, "category": "jewelery", "image": "/img/collar.webp" },
+  { "id": 8, "title": "Blusa Elegante", "price": 55000, "category": "women's clothing", "image": "/img/blusa.webp" }
+]
